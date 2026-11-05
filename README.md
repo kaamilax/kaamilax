@@ -49,7 +49,7 @@
 <br clear="both">
 
 <img
-  src="https://raw.githubusercontent.com/Kaamilax/Kaamilax/snake-output/snake.svg"
+  src="https://raw.githubusercontent.com/Kaamilax/Kaamilax/snake-output/snake-dark.svg"
   alt="Snake animation"
 />
 
