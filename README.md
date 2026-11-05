@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaamilax&show_icons=true&include_all_commits=true&theme=dracula" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Kaamilax&show_icons=true&include_all_commits=true&theme=dracula" height="150" alt="GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaamilax&layout=compact&langs_count=5&theme=dracula&card_width=320" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kaamilax&layout=compact&langs_count=5&theme=dracula&card_width=320" height="150" alt="Top Languages" />
 </div>
 
 ###
